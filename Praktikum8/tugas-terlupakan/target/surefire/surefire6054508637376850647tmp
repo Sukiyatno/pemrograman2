@@ -1,0 +1,6 @@
+#surefire
+#Mon Jun 10 15:33:27 ICT 2013
+user.dir=D\:\\pemrograman2\\tugas-terlupakan
+exec.mainClass=com.p2.tugas.MainFile
+localRepository=C\:\\Users\\SUKI\\.m2\\repository
+basedir=D\:\\pemrograman2\\tugas-terlupakan
